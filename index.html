@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<!-- Main index.html file -->
+
+
+
+<html lang="en">
+<head>
+    <!-- Metadata -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Siege-O-Namics 101</title>
+
+
+    <!-- Imports -->
+    <!-- navigation bar css -->
+    <link rel="stylesheet" href="./Libraries/nav.css">
+
+    <!-- main css -->
+    <link rel="stylesheet" href="style.css">
+
+    <!-- open sans font -->
+    <link href="https://fonts.googleapis.com/css?family=Open Sans" rel="stylesheet">
+</head>
+
+
+<body>
+<!-- Navbar -->
+<nav>
+    <a class="home" href="./index.html">Home</a>
+    <a class="active" href="./index.html">Operators</a>
+</nav>
+
+
+<div id="main">
+    <!-- Row 1: Operator Thingies -->
+    <div class="horizontal-box">
+        <!-- Portrait -->
+        <img id="operator-portrait" src="https://static.wikia.nocookie.net/rainbowsix/images/7/7e/Mute_-_Full_Body.png" alt="operator portrait">
+
+
+        <div class="vertical-box">
+            <!-- Name and Icon -->
+            <div class="horizontal-box" style="justify-content: center; padding-right: 50px; padding-left: 0px;">
+                <img id="operator-icon" src="https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/3exeHnxH1tmUmQTequWRKa/e1b6c6f057eb24722dd7860af0276316/Y0R6_BADGE_Mute_L.png" alt="operator icon">
+
+                <h1 id="operator-name">Mute</h1>
+            </div>
+
+
+            <!-- Speed and Armor ratings -->
+            <div class="horizontal-box" style="justify-content: center;">
+                <!-- Speed -->
+                <div class="vertical-box dot-rating">
+                    <h2>Speed</h2>
+
+                    <div>
+                        <span id="speed-dot1" class="dot"></span>
+                        <span id="speed-dot2" class="dot"></span>
+                        <span id="speed-dot3" class="dot"></span>
+                    </div>
+                </div>
+
+
+                <!-- Armor -->
+                <div class="vertical-box dot-rating">
+                    <h2>Armor</h2>
+
+                    <div>
+                        <span id="armor-dot1" class="dot"></span>
+                        <span id="armor-dot2" class="dot"></span>
+                        <span id="armor-dot3" class="dot"></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- Row 2: Operator Quote-->
+    <div id="operator-quote" class="horizontal-box" style="font-weight: 900;">
+        <p>"The Operator Quote"</p>
+    </div>
+
+
+    <!-- Row 3: Operator Description -->
+    <div id="operator-description" class="horziontal-box">
+        <p>The Operator Description</p>
+    </div>
+
+
+    <!-- Row 4: Navigation Buttons -->
+    <div id="navigation-buttons" class="horizontal-box">
+        <button id="previous">◄</button>
+        <button id="next">►</button>
+    </div>
+</div>
+
+
+<!-- Link to main js -->
+<script src="script.js"></script>
+</body>
+</html>
+
