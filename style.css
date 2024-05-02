@@ -105,6 +105,12 @@ button
 }
 
 
+#operator-icon
+{
+    width: 200px;
+}
+
+
 #operator-portrait
 {
     /* Location */
@@ -133,6 +139,7 @@ button
     padding: 10px 35px; /* top, right, bottom, left */
     height: auto;
     overflow: auto;
+    white-space: pre-wrap;
 }
 
 
