@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <!-- Collection of all R6 operators. Once clicked, will navigate to operator preview webpage with information of that particular operator -->
 
-
+<!--TODO: make operator portrait  -->
 
 <html>
 
@@ -24,6 +24,11 @@
 </head>
 
 
+<script>
+  var tempImg = "./Assets/Operators/Icons/mute-icon.png";
+</script>
+
+
 <body>
   <nav>
     <a class="home" href="./index.html">Home</a>
@@ -37,6 +42,13 @@
       <!-- Attackers -->
       <div class="vertical-box">
         <p>Attackers</p>
+        <div class="horizontal-box">
+          <a href="./operatorPreview.html"><img src="./Assets/Operators/Icons/mute-icon.png"></a>
+          
+          <script>
+            document.write("<img src='" + tempImg + "'>");
+          </script>
+        </div>
       </div>
 
 

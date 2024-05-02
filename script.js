@@ -4,10 +4,22 @@
 
 const operators =
 [
+    // Attackers
+    {
+        operatorName: "Sledge",
+        operatorSpeed: 1, // Armor is calculated from speed
+        operatorQuote: "\"Coming through!\"",
+        operatorDescription: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        operatorPortrait: "./Assets/Operators/Portraits/mute-portrait.webp",
+        operatorIcon: "./Assets/Operators/Icons/mute-icon.png"
+
+    },
+
+
     // Defenders
     {
         operatorName: "Mute",
-        operatorSpeed: 1, // Armor is calculated from speed
+        operatorSpeed: 1, 
         operatorQuote: "\"People think my codename is because I don’t like to talk. Maybe I just don’t like you.\"",
         operatorDescription: "TEMPORARY Mute is best used as an anchor. He passively denies attackers drones. He also has a shotgun that's relatively good at site setup",
         operatorPortrait: "./Assets/Operators/Portraits/mute-portrait.webp",
