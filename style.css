@@ -14,7 +14,7 @@ body
     font-family: 'Open Sans';
     font-size: 18px;
     background-color: rgb(67, 74, 80);
-    background-image: url(https://w.forfun.com/fetch/33/336cd1280a3890add39a001eea45af6e.jpeg);
+    /* background-image: url(https://w.forfun.com/fetch/33/336cd1280a3890add39a001eea45af6e.jpeg); */
     background-size: cover;
     color: whitesmoke;
 }
@@ -36,8 +36,8 @@ body
     margin-top: 58px;
 
     /* Style */
-    /* background-color: rgba(0, 0, 0, 0.3); */
-    background-image: linear-gradient(to top, rgba(255, 166, 1, 0.233), rgba(68, 52, 23, 0.3), rgba(0,0,0,0.5), rgba(0, 0, 0, 0.5));
+    background-color: rgba(0, 0, 0, 0.3);
+    /* background-image: linear-gradient(to top, rgba(255, 166, 1, 0.233), rgba(68, 52, 23, 0.3), rgba(0,0,0,0.5), rgba(0, 0, 0, 0.5)); */
 }
 
 
