@@ -1,7 +1,7 @@
 # [Siege-O-Namics](https://dalmontron05.github.io/Siege-O-Namics/)
 **It's Like Wikipedia, but for *Rainbow Six: Siege* Operators.**    
 
-Ubislop's official website is... well, it's slop. Tom Clancy's Rainbow Six: Siege is a bad game with a steep learning curve. As someone who's played for years with 2300 hours in the game, I can't in good faith reccomend it to someone.  
+Ubislop's official website is... well, it's slop. Tom Clancy's Rainbow Six: Siege is a bad game with a steep learning curve. As someone who's played for years with 2500 hours in the game, I can't in good faith reccomend it to someone.  
 
 ![Gif of Ubisoft logo flying into a trashcan](./Assets/UbiTrash.gif)
 
@@ -11,3 +11,4 @@ Did you know anyone in Tubarão's gadget doesn't glow yellow in glaz's thermal s
 
 Mastering these situational, yet important scenarios are what seperate the great from the good. Knowing the full potential of what operators you main can do is a low investment, high reward method of drastically improving your skill and fun within siege.
 
+<!-- add an r6 logo tab icon -->

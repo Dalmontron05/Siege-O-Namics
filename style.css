@@ -2,6 +2,18 @@
 
 
 
+/* SEEMS IMPORTANT */
+/* https://www.realtimecolors.com/?colors=f9f9f9-22242f-2e00ff-130082-e26302&fonts=Inter-Inter */
+:root
+{
+--text: #f9f9f9;
+--background: #22242f;
+--primary: #2e00ff;
+--secondary: #130082;
+--accent: #e26302;
+}
+
+
 /* MAIN FLEXBOX CONTAINERS */
 body
 {
@@ -14,10 +26,10 @@ body
     /* Style */
     font-family: 'Open Sans';
     font-size: 18px;
-    background-color: rgb(67, 74, 80);
-    /* background-image: url(https://w.forfun.com/fetch/33/336cd1280a3890add39a001eea45af6e.jpeg); */
+    background-color: var(--background);
+    background-image: url(./assets/Background.jpg);
     background-size: cover;
-    color: whitesmoke;
+    color: var(--text);
 }
 
 
