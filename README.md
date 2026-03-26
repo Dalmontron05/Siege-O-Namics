@@ -12,3 +12,7 @@ Did you know anyone in Tubarão's gadget doesn't glow yellow in glaz's thermal s
 Mastering these situational, yet important scenarios are what seperate the great from the good. Knowing the full potential of what operators you main can do is a low investment, high reward method of drastically improving your skill and fun within siege.
 
 <!-- add an r6 logo tab icon -->
+
+<!-- potential apis -->
+<!-- https://r6data.eu/api-docs#weapons -->
+<!-- https://github.com/SimplySylvia/R6-Tactics?tab=readme-ov-file -->
