@@ -1,38 +1,17 @@
-# Siege-O-Namics
+# [Siege-O-Namics](https://dalmontron05.github.io/Siege-O-Namics/)
+**It's Like Wikipedia, but for *Rainbow Six: Siege* Operators.**    
 
-This template should help get you started developing with Vue 3 in Vite.
+Ubislop's official website is... well, it's slop. Tom Clancy's Rainbow Six: Siege is a bad game with a steep learning curve. As someone who's played for years with 2500 hours in the game, I can't in good faith reccomend it to someone.  
 
-## Recommended IDE Setup
+![Gif of Ubisoft logo flying into a trashcan](./public/UbiTrash.gif)
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+That being said, R6 is a one of a kind. I (for the most part) love the game and continue to play it consistantly to this day. This project will help if you're a beginner, but it's catered more towards intermediate players that want to take the next step in their competitive gameplay.
 
-## Recommended Browser Setup
+Did you know anyone in Tubarão's gadget doesn't glow yellow in glaz's thermal scope? Have you seen that Thermite can breach a wall that's electrified by breaching a perpendicular wall or the floor above? Were you aware of how shockingly easy it is to EMP a C4 with Thatcher's gadget?
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+Mastering these situational, yet important scenarios are what seperate the great from the good. Knowing the full potential of what operators you main can do is a low investment, high reward method of drastically improving your skill and fun within siege.
 
-## Customize configuration
+# Credits
+Tom Clancy's Rainbow Six: Siege by Ubisoft  
+[Tab Icon](https://www.steamgriddb.com/logo/8126) by [RealSayakaMaizono](https://www.steamgriddb.com/profile/76561198041484404) 
 
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
