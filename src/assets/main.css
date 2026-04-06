@@ -5,6 +5,8 @@
   margin: 0 auto;
   padding: 2rem;
   font-weight: normal;
+  font-size: 18px;
+  /* background-color: rgb(0, 0, 0); */
 }
 
 a,
@@ -29,7 +31,8 @@ a,
 
   #app {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    /*? For some reason, this makes it really hard to predict where elements go upon resizing. I'm defaulting to just one bigass vertical flex box */
+    /* grid-template-columns: 1fr 1fr; */
     padding: 0 2rem;
   }
 }
